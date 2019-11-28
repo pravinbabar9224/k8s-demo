@@ -1,1 +1,1 @@
-docker build . -t janakiramm/web
+docker build . -t cloudmonster123/web

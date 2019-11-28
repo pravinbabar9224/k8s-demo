@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: web
-      image: janakiramm/web
+      image: cloudmonster123/web
       ports:
         - containerPort: 5000
           name: http
